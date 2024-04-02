@@ -1,0 +1,85 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "name": "Personal Training",
+        "image": "https://i.ibb.co/xs0nqZP/personal-trainer-s.jpg",
+        "price": "$50",
+        "description": "Get personalized training sessions tailored to your fitness goals and needs.",
+        "details_button": "Learn More",
+        "features": ["Customized workout plans", "One-on-one sessions", "Progress tracking", "Nutritional guidance", "Flexibility in scheduling"],
+        "expectation": ["Increased muscle strength", "Weight loss", "Improved cardiovascular health", "Enhanced flexibility", "Boosted confidence"]
+      },
+      {
+        "id": 2,
+        "name": "Nutrition Coaching",
+        "image": "https://i.ibb.co/sCZ39Wv/nutrition.jpg",
+        "price": "$100",
+        "description": "Receive expert guidance and meal plans to optimize your nutrition and reach your fitness goals.",
+        "details_button": "Learn More",
+        "features": ["Personalized meal plans", "Nutritional education", "Supplement recommendations", "Regular progress reviews", "Recipe suggestions"],
+        "expectation": ["Healthy weight management", "Increased energy levels", "Improved digestion", "Enhanced sports performance", "Better overall health"]
+      },
+      {
+        "id": 3,
+        "name": "Weight Loss Program",
+        "image": "https://i.ibb.co/T2d8Wfw/weight-loss.jpg",
+        "price": "$200",
+        "description": "Join our comprehensive weight loss program designed to help you shed pounds safely and effectively.",
+        "details_button": "Learn More",
+        "features": ["Structured workout routines", "Meal planning assistance", "Accountability coaching", "Supportive community", "Progress tracking tools"],
+        "expectation": ["Significant weight loss", "Increased metabolism", "Improved body composition", "Healthier lifestyle habits", "Enhanced self-esteem"]
+      },
+      {
+        "id": 4,
+        "name": "High Intensity Interval Training (HIIT)",
+        "image": "https://i.ibb.co/T0mvQHZ/hiit.jpg",
+        "price": "$80",
+        "description": "Experience intense, efficient workouts with our HIIT training sessions.",
+        "details_button": "Learn More",
+        "features": ["Short but intense workouts", "Variety of exercises", "Calorie-torching routines", "Metabolic conditioning", "Time-efficient workouts"],
+        "expectation": ["Fat loss", "Muscle toning", "Increased endurance", "Improved cardiovascular health", "Enhanced athletic performance"]
+      },
+      {
+        "id": 5,
+        "name": "Yoga Classes",
+        "image": "https://i.ibb.co/7Jh4S1s/yoga.jpg",
+        "price": "$60",
+        "description": "Find balance, strength, and flexibility with our yoga classes suitable for all levels.",
+        "details_button": "Learn More",
+        "features": ["Variety of yoga styles", "Mindfulness practices", "Breathing exercises", "Body awareness", "Relaxation techniques"],
+        "expectation": ["Improved flexibility", "Stress reduction", "Muscle strength and tone", "Better posture", "Enhanced mental clarity"]
+      },
+      {
+        "id": 6,
+        "name": "Group Fitness",
+        "image": "https://i.ibb.co/4Whc7JN/group-fitness.jpg",
+        "price": "$40",
+        "description": "Join our energizing group fitness classes for a fun and motivating workout experience.",
+        "details_button": "Learn More",
+        "features": ["Dynamic group atmosphere", "Variety of class formats", "Qualified instructors", "Community support", "Accountability"],
+        "expectation": ["Weight loss", "Increased motivation", "Improved fitness levels", "Sense of camaraderie", "Enjoyable workout experience"]
+      },
+      {
+        "id": 7,
+        "name": "Strength Training",
+        "image": "https://i.ibb.co/NCtkN7h/strength.jpg",
+        "price": "$70",
+        "description": "Build muscle, increase strength, and improve overall fitness with our personalized strength training programs.",
+        "details_button": "Learn More",
+        "features": ["Customized workout plans", "Progressive overload", "Muscle hypertrophy", "Strength gains", "Corrective exercises"],
+        "expectation": ["Muscle growth", "Increased strength", "Improved bone density", "Enhanced metabolism", "Better functional fitness"]
+      },
+      {
+        "id": 8,
+        "name": "Cardio Kickboxing",
+        "image": "https://i.ibb.co/7tkQzwj/cardio.jpg",
+        "price": "$55",
+        "description": "Experience a high-energy workout combining cardio and martial arts techniques to improve endurance and burn calories.",
+        "details_button": "Learn More",
+        "features": ["Cardiovascular conditioning", "Total body workout", "Self-defense techniques", "Improved coordination", "Stress relief"],
+        "expectation": ["Calorie burn", "Increased cardiovascular fitness", "Enhanced agility", "Core strength", "Better self-confidence"]
+      }
+    ]
+  }
+  

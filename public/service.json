@@ -1,0 +1,69 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "name": "Personal Training",
+        "image": "https://i.ibb.co/xs0nqZP/personal-trainer-s.jpg",
+        "price": "$50",
+        "description": "Get personalized training sessions tailored to your fitness goals and needs.",
+        "details_button": "Learn More"
+      },
+      {
+        "id": 2,
+        "name": "Nutrition Coaching",
+        "image": "https://i.ibb.co/sCZ39Wv/nutrition.jpg",
+        "price": "$100",
+        "description": "Receive expert guidance and meal plans to optimize your nutrition and reach your fitness goals.",
+        "details_button": "Learn More"
+      },
+      {
+        "id": 3,
+        "name": "Weight Loss Program",
+        "image": "https://i.ibb.co/T2d8Wfw/weight-loss.jpg",
+        "price": "$200",
+        "description": "Join our comprehensive weight loss program designed to help you shed pounds safely and effectively.",
+        "details_button": "Learn More"
+      },
+      {
+        "id": 4,
+        "name": "High Intensity Interval Training (HIIT)",
+        "image": "https://i.ibb.co/T0mvQHZ/hiit.jpg",
+        "price": "$80",
+        "description": "Experience intense, efficient workouts with our HIIT training sessions.",
+        "details_button": "Learn More"
+      },
+      {
+        "id": 5,
+        "name": "Yoga Classes",
+        "image": "https://i.ibb.co/7Jh4S1s/yoga.jpg",
+        "price": "$60",
+        "description": "Find balance, strength, and flexibility with our yoga classes suitable for all levels.",
+        "details_button": "Learn More"
+      },
+      {
+        "id": 6,
+        "name": "Group Fitness",
+        "image": "https://i.ibb.co/4Whc7JN/group-fitness.jpg",
+        "price": "$40",
+        "description": "Join our energizing group fitness classes for a fun and motivating workout experience.",
+        "details_button": "Learn More"
+      },
+      {
+        "id": 7,
+        "name": "Strength Training",
+        "image": "https://i.ibb.co/NCtkN7h/strength.jpg",
+        "price": "$70",
+        "description": "Build muscle, increase strength, and improve overall fitness with our personalized strength training programs.",
+        "details_button": "Learn More"
+      },
+      {
+        "id": 8,
+        "name": "Cardio Kickboxing",
+        "image": "https://i.ibb.co/7tkQzwj/cardio.jpg",
+        "price": "$55",
+        "description": "Experience a high-energy workout combining cardio and martial arts techniques to improve endurance and burn calories.",
+        "details_button": "Learn More"
+      }
+    ]
+  }
+  

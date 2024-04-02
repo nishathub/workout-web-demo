@@ -1,0 +1,14 @@
+
+#navbar-banner-bg{
+  background: black;
+  min-height: 500px;
+  background: 
+  linear-gradient(
+    rgba(0, 0, 0, 0.917),
+    rgba(0, 0, 0, 0)
+  ),
+  url('./assets/bg-photo.jpg') center/cover;
+  
+ 
+  
+}
